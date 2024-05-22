@@ -20,4 +20,4 @@ Learn to develop a machine-learning pipeline to predict the temperature for the 
 - Familiarity with Azure Machine Learning Studio and Designer.
 
 ## Learn More & Enrol
-https://www.udemy.com/labs/4040/overview
+https://www.udemy.com/labs/predicting-weather-conditions-using-a-regression-model-in-azure-ml-designer
